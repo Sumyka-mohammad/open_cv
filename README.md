@@ -31,5 +31,5 @@ streamlit run app.py
 - Rotation & Flip
 - AI Background Removal
 
-🎯 Use Case
+## 🎯 Use Case
 This project demonstrates practical computer vision skills and interactive UI development for real-world applications.
