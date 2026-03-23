@@ -25,11 +25,11 @@ This project is a web-based Photo Editor built using OpenCV and Streamlit. It al
 pip install -r requirements.txt
 streamlit run app.py
 ```
-📌 Future Enhancements
-Edge Detection
-Cartoon Effect
-Rotation & Flip
-AI Background Removal
+## 📌 Future Enhancements
+- Edge Detection
+- Cartoon Effect
+- Rotation & Flip
+- AI Background Removal
 
 🎯 Use Case
 This project demonstrates practical computer vision skills and interactive UI development for real-world applications.
