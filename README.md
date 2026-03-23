@@ -24,6 +24,7 @@ This project is a web-based Photo Editor built using OpenCV and Streamlit. It al
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 📌 Future Enhancements
 Edge Detection
 Cartoon Effect
